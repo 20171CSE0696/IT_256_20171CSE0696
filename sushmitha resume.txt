@@ -32,5 +32,6 @@
 <h3>Education</h3>
 <p><b>High School in Chaitanya College</b>:2017</p>
 <p><b>B.tech(CSE) in Presidency University</b>-Bangalore</p>
+<a href="timetable.html"target="_blank">Click here for TIMETABLE</a>
 </body>
 </html>
