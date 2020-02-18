@@ -1,37 +1,85 @@
-<html>
 <head>
-<h1 align="center"><b><big>S</big>USHMITHA <big>S</big>INGH</b></h1>
-<hr>
-<hr size="4" color="black">
-</head>
-<body>
-<p align="center">Bangalore &#8226; 560064 &#8226; sushmitha@singh.com<p>
-<h3>Professional Summary</h3>
-<p>Skillful Software Engineer accomplished in university project-1,material handling and  design. Created emotion facial recognition ,Works well independently and as part of dynamic teams. Skilled at collaborating with other engineers of collectibles and memorabilia on project assemble,model display.</p>
-<h3>Work History</h3>
-
-<p><b>Software Engineer</b>,8/2017 to current</p>
-<p><b>Presidency University project</b>-Bangalore</p>
-<ul>
+			<title>My Resume</title>
+		</head>
+		<body bgcolor=#B58FD1>
+			
+			<h4><b><big>S</big>USHMITHA <big>S</big>INGH</b></h4>
+			<a href="mailtosushmitha@singh.com">sushmitha@singh.com</a>
+			<pre>+91-9036130488</pre>
+			<hr noshade/>
+			<h4>CV Highlights</h4>
+			<ul>
+				<li>Python</li>
+				<li>CPMA</li>
+				<li>Currently doing my BTech(3rd year) CSE in Presidency University</li>
+			</ul>
+			<hr noshade/>
+			<h4>Professional Experience</h4>
+			<ul>
+				<li><b>Presidency University project</b>
+				<ul type="circle">
+					
 <li>Monitored and analyzed materials, presentation ,records and assembling.</li>
-<li>Coordinated communication with other engineers  and vendors for emotion facial recognition.</li>
-<li>Ran markdown reports,managed  project documentation and analysed reports.</li>
-<li>colleted all the materials and assembled along with design and handling team.</li>
-</ul>
+	<li>Coordinated communication with other engineers  and vendors for emotion facial recognition.</li>
+	<li>Ran markdown reports,managed  project documentation and analysed reports.</li>
+	<li>colleted all the materials and assembled along with design and handling team.</li>
 
+					
+			</ul>
+			<hr noshade/>
+			<h4>Educational Qualifications</h4>
+			<table border="1" width=100%>
+			<tr>			
+				<th>Qualification</th>
+				<th>Board</th>
+				<th>Percentage/Grades</th>
+				<th>Year</th>
+			</tr>
+			<tr>			
+				<th>BTech</th>
+				<th>Presidency University</th>
+				<th>7.5</th>
+				<th>2021</th>
+			</tr>
+			<tr>			
+				<th>CBSE</th>
+				<th>Sri Chaitanya PU College</th>
+				<th>75%</th>
+				<th>2017</th>
+			</tr>
+			<tr>			
+				<th>CBSE</th>
+				<th>NMKRV</th>
+				<th>86%</th>
+				<th>2015</th>
+			</tr></table>
+			<hr noshade/>
+			<h4>Independent Courses</h4>
+			<ul type="circle">
+				<li>Digital Design(NPTEL)</li>
+				<li>CMPA(Microsoft)</li>
+			</ul>
+			<hr noshade/>
+			<h4>Technical Skills</h4>
+			<ul type="circle">
+				<li><span style="color:black">Languages:</span> python,C</li>
+				<li><span style="color:black">Operating Systems:</span> Windows,Ubuntu</li>
+			</ul>
+			<hr noshade/>
+			<h4>Certificates/Awards</h4>
+			<ul type="circle">
+				<li>digital design(NPTEL)</li>
+				<li>Cross platform mobile development(microsoft)</li>
+			</ul>
 
-<h3>Skills</h3>
-<ul>
-<li>Excellent Communication Skills</li>
-<li>Active Listening</li>
-<li>Time Management</li>
-<li>Problem Solving</li>
-<li>Computer Skills</li>
-<li>Team Work</li>
-</ul>
-<h3>Education</h3>
-<p><b>High School in Chaitanya College</b>:2017</p>
-<p><b>B.tech(CSE) in Presidency University</b>-Bangalore</p>
-<a href="timetable.html"target="_blank">Click here for TIMETABLE</a>
-</body>
-</html>
+       <hr noshade/>
+			<h4>Other Information</h4>
+			<ul type="circle">
+				<li>Languages spoken:English,Hindi</li>
+				<li>Hobbies: Listening songs,watching tv,drawing</li>
+			</ul>
+			<hr noshade/>
+			<h4>Declaration</h4>
+			<p>I do hereby declare that the above particulars of facts and information stated are true, correct and complete to the best of my belief and knowledge.</p>
+		</body>
+	</html>
